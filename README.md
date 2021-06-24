@@ -1,2 +1,7 @@
-# Fun-War-Game
-This is a 2D top-down game, with a theme of a pirate battle, made with Untiy Engine by me.
+# The Game
+![](https://github.com/KaykyDeSouzaDias/Fun-War-Game/blob/main/IMGS_GIFS/FunWarGIF.gif)
+![](https://github.com/KaykyDeSouzaDias/Fun-War-Game/blob/main/IMGS_GIFS/01.png)
+![](https://github.com/KaykyDeSouzaDias/Fun-War-Game/blob/main/IMGS_GIFS/02.png)
+![](https://github.com/KaykyDeSouzaDias/Fun-War-Game/blob/main/IMGS_GIFS/03.png)
+![](https://github.com/KaykyDeSouzaDias/Fun-War-Game/blob/main/IMGS_GIFS/04.png)
+![](https://github.com/KaykyDeSouzaDias/Fun-War-Game/blob/main/IMGS_GIFS/05.png)
